@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>app-1-402703928982-ios-b17bbab79a4be61f797cb7</string>
+			</array>
+		</dict>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>InterTight-Black.ttf</string>
+		<string>InterTight-BlackItalic.ttf</string>
+		<string>RubikMonoOne-Regular.ttf</string>
+		<string>InterTight-Bold.ttf</string>
+		<string>BarlowCondensed-ExtraBold.ttf</string>
+		<string>BarlowCondensed-ExtraBoldItalic.ttf</string>
+		<string>InterTight-BoldItalic.ttf</string>
+		<string>InterTight-ExtraBold.ttf</string>
+		<string>InterTight-ExtraBoldItalic.ttf</string>
+		<string>InterTight-ExtraLight.ttf</string>
+		<string>InterTight-Italic.ttf</string>
+		<string>InterTight-Light.ttf</string>
+		<string>InterTight-LightItalic.ttf</string>
+		<string>InterTight-Medium.ttf</string>
+		<string>InterTight-MediumItalic.ttf</string>
+		<string>InterTight-Regular.ttf</string>
+		<string>InterTight-SemiBold.ttf</string>
+		<string>InterTight-SemiBoldItalic.ttf</string>
+		<string>InterTight-Thin.ttf</string>
+		<string>InterTight-ThinItalic.ttf</string>
+		<string>InterTight-ExtraLightItalic.ttf</string>
+	</array>
+</dict>
+</plist>
